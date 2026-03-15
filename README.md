@@ -1,4 +1,4 @@
-# Windows 沙盒中文环境配置 (Windows Sandbox zh-CN)
+# Windows Sandbox 中文环境配置
 
 这是一个轻量级的 Windows 沙盒 (`.wsb`) 配置文件。它的主要作用是在每次启动 Windows 沙盒时，自动在后台运行脚本，将沙盒系统的显示语言和输入法强制设置为**简体中文 (zh-CN)**。
 
