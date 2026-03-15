@@ -1,0 +1,5 @@
+<Configuration>
+<LogonCommand>
+<Command>powershell -command "$languageList=New-WinUserLanguageList zh-CN;Set-WinUserLanguageList $languageList -Force"</Command>
+</LogonCommand>
+</Configuration>
